@@ -1,6 +1,22 @@
 # Mainnet Contracts
 
-# Orthogonal Pool Contracts
+## ERC-20 Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| USDC  | [0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48](https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) |
+| WBTC  | [0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599](https://etherscan.io/address/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599) |
+| WETH9 | [0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2) |
+| MPL   | [0x33349B282065b0284d756F0577FB39c158F935e6](https://etherscan.io/address/0x33349B282065b0284d756F0577FB39c158F935e6) |
+
+## Administrative Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| MapleGlobals      | [0xC234c62c8C09687DFf0d9047e40042cd166F3600](https://etherscan.io/address/0xC234c62c8C09687DFf0d9047e40042cd166F3600) |
+| MapleTreasury     | [0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19](https://etherscan.io/address/0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19) |
+
+## Orthogonal Pool Contracts
 
 | Contract | Address |
 | -------- | ------- |
@@ -9,7 +25,7 @@
 | MplRewards (LP)      | [0x7869d7a3b074b5fa484dc04798e254c9c06a5e90](https://etherscan.io/address/0x7869d7a3b074b5fa484dc04798e254c9c06a5e90) |
 | MplRewards (Staking) | [0xf9d4d5a018d91e9bccc1e35ea78fcfecf4c5cbca](https://etherscan.io/address/0xf9d4d5a018d91e9bccc1e35ea78fcfecf4c5cbca) |
 
-# Maven11 Pool Contracts
+## Maven11 Pool Contracts
 
 | Contract | Address |
 | -------- | ------- |
@@ -18,7 +34,7 @@
 | MplRewards (LP)      | [0x7c57bf654bc16b0c9080f4f75ff62876f50b8259](https://etherscan.io/address/0x7c57bf654bc16b0c9080f4f75ff62876f50b8259) |
 | MplRewards (Staking) | [0xe5a1cb65e7a608e778b3ccb02f7b2dfefee783b4](https://etherscan.io/address/0xe5a1cb65e7a608e778b3ccb02f7b2dfefee783b4) |
 
-# Blocktower Pool Contracts
+## Blocktower Pool Contracts
 
 | Contract | Address |
 | -------- | ------- |
@@ -27,7 +43,7 @@
 | MplRewards (LP)      | [0xd0123f5220a36e9ec6082d83b4a11f92aa48ccd0](https://etherscan.io/address/0xd0123f5220a36e9ec6082d83b4a11f92aa48ccd0) |
 | MplRewards (Staking) | [0x0000000000000000000000000000000000000000](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
 
-# Alameda Pool Contracts
+## Alameda Pool Contracts
 
 | Contract | Address |
 | -------- | ------- |
@@ -57,7 +73,7 @@
 | FundingLockerFactory    | [0x0eB96A53EC793a244876b018073f33B23000F25b](https://etherscan.io/address/0x0eB96A53EC793a244876b018073f33B23000F25b) |
 | MplRewardsFactory       | [0x0155729EbCd47Cb1fBa02bF5a8DA20FaF3860535](https://etherscan.io/address/0x0155729EbCd47Cb1fBa02bF5a8DA20FaF3860535) |
 
-# External Protocol Contracts
+## External Protocol Contracts
 
 | Contract | Address |
 | -------- | ------- |
@@ -65,21 +81,14 @@
 | BFactory          | [0x9424B1412450D0f8Fc2255FAf6046b98213B76Bd](https://etherscan.io/address/0x9424B1412450D0f8Fc2255FAf6046b98213B76Bd) |
 | BPool             | [0xc1b10e536CD611aCFf7a7c32A9E29cE6A02Ef6ef](https://etherscan.io/address/0xc1b10e536CD611aCFf7a7c32A9E29cE6A02Ef6ef) |
 
-# Administrative Contracts
-
-| Contract | Address |
-| -------- | ------- |
-| MapleGlobals      | [0xC234c62c8C09687DFf0d9047e40042cd166F3600](https://etherscan.io/address/0xC234c62c8C09687DFf0d9047e40042cd166F3600) |
-| MapleTreasury     | [0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19](https://etherscan.io/address/0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19) |
-
-# Library Contracts
+## Library Contracts
 | Contract | Address |
 | -------- | ------- |
 | Util    | [0x95f9676A34aF2675B63948dDba8F8c798741A52a](https://etherscan.io/address/0x95f9676A34aF2675B63948dDba8F8c798741A52a) |
 | PoolLib | [0x2c1C30fb8cC313Ef3cfd2E2bBf2da88AdD902C30](https://etherscan.io/address/0x2c1C30fb8cC313Ef3cfd2E2bBf2da88AdD902C30) |
 | LoanLib | [0x51A189ccD2eB5e1168DdcA7e59F7c8f39AA52232](https://etherscan.io/address/0x51A189ccD2eB5e1168DdcA7e59F7c8f39AA52232) |
 
-# Loan Calculator Contracts
+## Loan Calculator Contracts
 
 | Contract | Address |
 | -------- | ------- |
@@ -87,16 +96,7 @@
 | LateFeeCalc   | [0x8dC5aa328142aa8a008c25F66a77eaA8E4B46f3c](https://etherscan.io/address/0x8dC5aa328142aa8a008c25F66a77eaA8E4B46f3c) |
 | PremiumCalc   | [0xe88Ab4Cf1Ec06840d16feD69c964aD9DAFf5c6c2](https://etherscan.io/address/0xe88Ab4Cf1Ec06840d16feD69c964aD9DAFf5c6c2) |
 
-# ERC-20 Contracts
-
-| Contract | Address |
-| -------- | ------- |
-| USDC  | [0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48](https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) |
-| WBTC  | [0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599](https://etherscan.io/address/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599) |
-| WETH9 | [0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2) |
-| MPL   | [0x33349B282065b0284d756F0577FB39c158F935e6](https://etherscan.io/address/0x33349B282065b0284d756F0577FB39c158F935e6) |
-
-# Oracle Contracts
+## Oracle Contracts
 
 | Contract | Address |
 | -------- | ------- |
