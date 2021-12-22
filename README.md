@@ -52,7 +52,7 @@
 | MplRewards (LP)      | [0x5e804b9a61b3e5bf2718ea249deb13366129b7de](https://etherscan.io/address/0x5e804b9a61b3e5bf2718ea249deb13366129b7de) |
 | MplRewards (Staking) | [0x0000000000000000000000000000000000000000](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
 
-# Protocol Actor Addresses
+## Protocol Actor Addresses
 
 | Contract | Address |
 | -------- | ------- |
@@ -60,7 +60,7 @@
 | GlobalAdmin   | [0x93CC3E39C91cf93fd57acA416ed6fE66e8bdD573](https://etherscan.io/address/0x93CC3E39C91cf93fd57acA416ed6fE66e8bdD573) |
 | SecurityAdmin | [0x6b1A78C1943b03086F7Ee53360f9b0672bD60818](https://etherscan.io/address/0x6b1A78C1943b03086F7Ee53360f9b0672bD60818) |
 
-# Factory Contracts
+## Factory Contracts
 
 | Contract | Address |
 | -------- | ------- |
