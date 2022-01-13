@@ -68,10 +68,18 @@
 | StakeLockerFactory      | [0x53a597A4730Eb02095dD798B203Dcc306348B8d6](https://etherscan.io/address/0x53a597A4730Eb02095dD798B203Dcc306348B8d6) |
 | LiquidityLockerFactory  | [0x966528BB1C44f96b3AA8Fbf411ee896116b068C9](https://etherscan.io/address/0x966528BB1C44f96b3AA8Fbf411ee896116b068C9) |
 | DebtLockerFactory       | [0x2a7705594899Db6c3924A872676E54f041d1f9D8](https://etherscan.io/address/0x2a7705594899Db6c3924A872676E54f041d1f9D8) |
+| DebtLockerV2Factory     | [0xA83404CAA79989FfF1d84bA883a1b8187397866C](https://etherscan.io/address/0xA83404CAA79989FfF1d84bA883a1b8187397866C) |
 | LoanFactory             | [0x908cC851Bc757248514E060aD8Bd0a03908308ee](https://etherscan.io/address/0x908cC851Bc757248514E060aD8Bd0a03908308ee) |
+| LoanV2Factory           | [0x36a7350309B2Eb30F3B908aB0154851B5ED81db0](https://etherscan.io/address/0x36a7350309B2Eb30F3B908aB0154851B5ED81db0) |
 | CollateralLockerFactory | [0xEE3e59D381968f4F9C92460D9d5Cfcf5d3A67987](https://etherscan.io/address/0xEE3e59D381968f4F9C92460D9d5Cfcf5d3A67987) |
 | FundingLockerFactory    | [0x0eB96A53EC793a244876b018073f33B23000F25b](https://etherscan.io/address/0x0eB96A53EC793a244876b018073f33B23000F25b) |
 | MplRewardsFactory       | [0x0155729EbCd47Cb1fBa02bF5a8DA20FaF3860535](https://etherscan.io/address/0x0155729EbCd47Cb1fBa02bF5a8DA20FaF3860535) |
+
+## LoanV2/DebtLockerV2 Contracts
+| LoanV2                  | [0x97940C7aea99998da4c56922211ce012E7765395](https://etherscan.io/address/0x97940C7aea99998da4c56922211ce012E7765395) |
+| LoanV2Initializer       | [0xCba99a6648450a7bE7f20B1C3258F74Adb662020](https://etherscan.io/address/0xCba99a6648450a7bE7f20B1C3258F74Adb662020) |
+| DebtLockerV2            | [0xA134143D6bDEf75eD2FbbB4e7a8E70765c25a03C](https://etherscan.io/address/0xA134143D6bDEf75eD2FbbB4e7a8E70765c25a03C) |
+| DebtLockerV2Initializer | [0x3D01aE38be6D81BD7c8De0D5Cd558eAb3F4cb79b](https://etherscan.io/address/0x3D01aE38be6D81BD7c8De0D5Cd558eAb3F4cb79b) |
 
 ## External Protocol Contracts
 
