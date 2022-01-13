@@ -76,6 +76,8 @@
 | MplRewardsFactory       | [0x0155729EbCd47Cb1fBa02bF5a8DA20FaF3860535](https://etherscan.io/address/0x0155729EbCd47Cb1fBa02bF5a8DA20FaF3860535) |
 
 ## LoanV2/DebtLockerV2 Contracts
+| Contract | Address |
+| -------- | ------- |
 | LoanV2                  | [0x97940C7aea99998da4c56922211ce012E7765395](https://etherscan.io/address/0x97940C7aea99998da4c56922211ce012E7765395) |
 | LoanV2Initializer       | [0xCba99a6648450a7bE7f20B1C3258F74Adb662020](https://etherscan.io/address/0xCba99a6648450a7bE7f20B1C3258F74Adb662020) |
 | DebtLockerV2            | [0xA134143D6bDEf75eD2FbbB4e7a8E70765c25a03C](https://etherscan.io/address/0xA134143D6bDEf75eD2FbbB4e7a8E70765c25a03C) |
