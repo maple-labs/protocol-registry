@@ -112,4 +112,6 @@
 | -------- | ------- |
 | PriceOracleUSDC         | [0x5DC5E14be1280E747cD036c089C96744EBF064E7](https://etherscan.io/address/0x5DC5E14be1280E747cD036c089C96744EBF064E7) |
 | PriceOracleWBTC         | [0xF808ec05c1760DE4794813d08d2Bf1E16e7ECD0B](https://etherscan.io/address/0xF808ec05c1760DE4794813d08d2Bf1E16e7ECD0B) |
+| PriceOracleWETH         | [0x40db4461402125fd848ccf89f39166d42db0aa47](https://etherscan.io/address/0x40db4461402125fd848ccf89f39166d42db0aa47) |
 | ChainLinkAggregatorWBTC | [0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c](https://etherscan.io/address/0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c) |
+| ChainLinkAggregatorWETH | [0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419](https://etherscan.io/address/0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419) |
