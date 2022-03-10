@@ -52,6 +52,24 @@
 | MplRewards (LP)      | [`0x5e804b9a61b3e5bf2718ea249deb13366129b7de`](https://etherscan.io/address/0x5e804b9a61b3e5bf2718ea249deb13366129b7de) |
 | MplRewards (Staking) | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
 
+## Celsius WETH Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                 | [`0xa1fe1b5fc23c2dab0c28d4cc09021014f30be8f1`](https://etherscan.io/address/0xa1fe1b5fc23c2dab0c28d4cc09021014f30be8f1) |
+| StakeLocker          | [`0xb46be5bb19eb95b5a2b4d3b6276a2e703d6e4082`](https://etherscan.io/address/0xb46be5bb19eb95b5a2b4d3b6276a2e703d6e4082) |
+| MplRewards (LP)      | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
+| MplRewards (Staking) | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
+
+## Maven11 WETH Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                 | [`0x1a066b0109545455bc771e49e6edef6303cb0a93`](https://etherscan.io/address/0x1a066b0109545455bc771e49e6edef6303cb0a93) |
+| StakeLocker          | [`0xd5deeb06859369e42cf1906408ed6cb249e0e002`](https://etherscan.io/address/0xd5deeb06859369e42cf1906408ed6cb249e0e002) |
+| MplRewards (LP)      | [`0x0a76c7913c94f2af16958fbdf9b4cf0bbdb159d8`](https://etherscan.io/address/0x0a76c7913c94f2af16958fbdf9b4cf0bbdb159d8) |
+| MplRewards (Staking) | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
+
 ## Protocol Actor Addresses
 
 | Contract | Address |
