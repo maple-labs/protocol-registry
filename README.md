@@ -105,11 +105,11 @@
 ## LoanV3/DebtLockerV3 Contracts
 | Contract | Address |
 | -------- | ------- |
-| LoanV3                  | [`0x47b17382aeebdf29e0f6bfb1b1e086b4d26ea9da`](https://etherscan.io/address/0x47b17382aeebdf29e0f6bfb1b1e086b4d26ea9da) |
-| LoanV3Initializer       | [`0x38b6c21c0cd556a6d2a99abfd7acef1c772e18a9`](https://etherscan.io/address/0x38b6c21c0cd556a6d2a99abfd7acef1c772e18a9) |
-| DebtLockerV3            | [`0xe69fd9472d65d6898eaf944268423f2e9e8187d3`](https://etherscan.io/address/0xe69fd9472d65d6898eaf944268423f2e9e8187d3) |
+| LoanV3                  | [`0xaf451789de6c85cdbfdee52476f22f272f222187`](https://etherscan.io/address/0xaf451789de6c85cdbfdee52476f22f272f222187) |
+| LoanV3Initializer       | [`0xff2ce989b5b5881db21f67cbe25145ffb053bccd`](https://etherscan.io/address/0xff2ce989b5b5881db21f67cbe25145ffb053bccd) |
+| DebtLockerV3            | [`0x406b4c4c7a8ba64220aa483de7fcf310779ea2b0`](https://etherscan.io/address/0x406b4c4c7a8ba64220aa483de7fcf310779ea2b0) |
 | DebtLockerV3Initializer | [`0x3D01aE38be6D81BD7c8De0D5Cd558eAb3F4cb79b`](https://etherscan.io/address/0x3D01aE38be6D81BD7c8De0D5Cd558eAb3F4cb79b) |
-| RefinancerV3            | [`0x3de630bfc2e04ac74ed5725ad8726b691cc029b7`](https://etherscan.io/address/0x3de630bfc2e04ac74ed5725ad8726b691cc029b7) |
+| RefinancerV3            | [`0x7a4312bc6b0f720dc775c45bef4bb3c26c34472b`](https://etherscan.io/address/0x7a4312bc6b0f720dc775c45bef4bb3c26c34472b) |
 
 ## External Protocol Contracts
 
