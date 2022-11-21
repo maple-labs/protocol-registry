@@ -1,39 +1,11 @@
-# ERC-20 Contracts
-
-| Contract | Address |
-| -------- | ------- |
-| USDC  | [`0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48`](https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) |
-| WBTC  | [`0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599`](https://etherscan.io/address/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599) |
-| WETH9 | [`0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2`](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2) |
-| MPL   | [`0x33349B282065b0284d756F0577FB39c158F935e6`](https://etherscan.io/address/0x33349B282065b0284d756F0577FB39c158F935e6) |
-| xMPL  | [`0x4937a209d4cdbd3ecd48857277cfd4da4d82914c`](https://etherscan.io/address/0x4937a209d4cdbd3ecd48857277cfd4da4d82914c) |
-
-# V2 Contracts
-
-## Liquidity Migration Contracts
-### Multisigs
-| Temporary Pool Delegate | Gnosis Safe Link |
-| -------- | ------- |
-| Icebreaker | [`0x37c610584f7834A8FEb490b73E2aC780AEE31905`](https://app.safe.global/eth:0x37c610584f7834A8FEb490b73E2aC780AEE31905/home) |
-| Maven 11 Permissioned | [`0xec67fd8445E9a84311E2BD118A21b2fDaACfc7FA`](https://app.safe.global/eth:0xec67fd8445E9a84311E2BD118A21b2fDaACfc7FA/home) |
-| Maven 11 USDC | [`0xf11897A0009b3a37f15365A976015E7F22A16d50`](https://app.safe.global/eth:0xf11897A0009b3a37f15365A976015E7F22A16d50/home) |
-| Maven 11 WETH | [`0xbFA29AA894229d532D1aD1fd7e4226fce842632C`](https://app.safe.global/eth:0xbFA29AA894229d532D1aD1fd7e4226fce842632C/home) |
-| Orthogonal | [`0x47c388644C7AA8736CA34e3Bfa0ee1F8284778c1`](https://app.safe.global/eth:0x47c388644C7AA8736CA34e3Bfa0ee1F8284778c1/home) |
-
-| Protocol Multisig | Gnosis Safe Link |
-| -------- | ------- |
-| Security Admin | [`0x2AD93F308AA812961Ec412a08eD778F4f4933758`](https://app.safe.global/eth:0x2AD93F308AA812961Ec412a08eD778F4f4933758/home) |
-| Migration Admin | [`0x2AD93F308AA812961Ec412a08eD778F4f4933758`](https://app.safe.global/eth:0x2AD93F308AA812961Ec412a08eD778F4f4933758/home) |
-
-# V1 Contracts
-
-## Administrative Contracts
+# Administrative Contracts
 
 | Contract | Address |
 | -------- | ------- |
 | MapleGlobals      | [`0xC234c62c8C09687DFf0d9047e40042cd166F3600`](https://etherscan.io/address/0xC234c62c8C09687DFf0d9047e40042cd166F3600) |
 | MapleTreasury     | [`0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19`](https://etherscan.io/address/0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19) |
 
+# Pool Contracts
 
 ## Icebreaker Pool Contracts
 
@@ -80,7 +52,7 @@
 | MplRewards (LP)      | [`0x7869d7a3b074b5fa484dc04798e254c9c06a5e90`](https://etherscan.io/address/0x7869d7a3b074b5fa484dc04798e254c9c06a5e90) |
 | MplRewards (Staking) | [`0xf9d4d5a018d91e9bccc1e35ea78fcfecf4c5cbca`](https://etherscan.io/address/0xf9d4d5a018d91e9bccc1e35ea78fcfecf4c5cbca) |
 
-## Protocol Actor Addresses
+# Protocol Actor Addresses
 
 | Contract | Address |
 | -------- | ------- |
@@ -88,7 +60,7 @@
 | GlobalAdmin   | [`0x93CC3E39C91cf93fd57acA416ed6fE66e8bdD573`](https://etherscan.io/address/0x93CC3E39C91cf93fd57acA416ed6fE66e8bdD573) |
 | SecurityAdmin | [`0x6b1A78C1943b03086F7Ee53360f9b0672bD60818`](https://etherscan.io/address/0x6b1A78C1943b03086F7Ee53360f9b0672bD60818) |
 
-## Factory Contracts
+# Factory Contracts
 
 | Contract | Address |
 | -------- | ------- |
@@ -102,6 +74,8 @@
 | CollateralLockerFactory | [`0xEE3e59D381968f4F9C92460D9d5Cfcf5d3A67987`](https://etherscan.io/address/0xEE3e59D381968f4F9C92460D9d5Cfcf5d3A67987) |
 | FundingLockerFactory    | [`0x0eB96A53EC793a244876b018073f33B23000F25b`](https://etherscan.io/address/0x0eB96A53EC793a244876b018073f33B23000F25b) |
 | MplRewardsFactory       | [`0x0155729EbCd47Cb1fBa02bF5a8DA20FaF3860535`](https://etherscan.io/address/0x0155729EbCd47Cb1fBa02bF5a8DA20FaF3860535) |
+
+# Loan and DebtLocker Contracts
 
 ## Loan v2.0.0 Contracts
 | Contract | Address |
@@ -128,21 +102,7 @@
 | DebtLockerV3            | [`0x406b4c4c7a8ba64220aa483de7fcf310779ea2b0`](https://etherscan.io/address/0x406b4c4c7a8ba64220aa483de7fcf310779ea2b0) |
 | DebtLockerV3Initializer | Same as [`DebtLockerV2Initializer`](https://etherscan.io/address/0x3D01aE38be6D81BD7c8De0D5Cd558eAb3F4cb79b) |
 
-## Loan v3.0.1 Contracts
-| Contract | Address |
-| -------- | ------- |
-| LoanV3                  | [`0xaf451789de6c85cdbfdee52476f22f272f222187`](https://etherscan.io/address/0xaf451789de6c85cdbfdee52476f22f272f222187) |
-| LoanV3Initializer       | [`0xff2ce989b5b5881db21f67cbe25145ffb053bccd`](https://etherscan.io/address/0xff2ce989b5b5881db21f67cbe25145ffb053bccd) |
-| RefinancerV3            | [`0x7a4312bc6b0f720dc775c45bef4bb3c26c34472b`](https://etherscan.io/address/0x7a4312bc6b0f720dc775c45bef4bb3c26c34472b) |
-
-## External Protocol Contracts
-
-| Contract | Address |
-| -------- | ------- |
-| UniswapV2Router02 | [`0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D`](https://etherscan.io/address/0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D) |
-| BFactory          | [`0x9424B1412450D0f8Fc2255FAf6046b98213B76Bd`](https://etherscan.io/address/0x9424B1412450D0f8Fc2255FAf6046b98213B76Bd) |
-| BPoolUSDC         | [`0xc1b10e536CD611aCFf7a7c32A9E29cE6A02Ef6ef`](https://etherscan.io/address/0xc1b10e536CD611aCFf7a7c32A9E29cE6A02Ef6ef) |
-| BPoolWETH         | [`0x30b705BfA64Be9AE395bD9238EfC63E9f5F8d1Cc`](https://etherscan.io/address/0x30b705BfA64Be9AE395bD9238EfC63E9f5F8d1Cc) |
+# Auxiliary Contracts
 
 ## Library Contracts
 | Contract | Address |
