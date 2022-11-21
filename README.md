@@ -1,4 +1,14 @@
-# Mainnet Contracts
+# ERC-20 Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| USDC  | [`0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48`](https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) |
+| WBTC  | [`0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599`](https://etherscan.io/address/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599) |
+| WETH9 | [`0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2`](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2) |
+| MPL   | [`0x33349B282065b0284d756F0577FB39c158F935e6`](https://etherscan.io/address/0x33349B282065b0284d756F0577FB39c158F935e6) |
+| xMPL  | [`0x4937a209d4cdbd3ecd48857277cfd4da4d82914c`](https://etherscan.io/address/0x4937a209d4cdbd3ecd48857277cfd4da4d82914c) |
+
+# V2 Contracts
 
 ## Liquidity Migration Contracts
 ### Multisigs
@@ -15,15 +25,7 @@
 | Security Admin | [`0x2AD93F308AA812961Ec412a08eD778F4f4933758`](https://app.safe.global/eth:0x2AD93F308AA812961Ec412a08eD778F4f4933758/home) |
 | Migration Admin | [`0x2AD93F308AA812961Ec412a08eD778F4f4933758`](https://app.safe.global/eth:0x2AD93F308AA812961Ec412a08eD778F4f4933758/home) |
 
-## ERC-20 Contracts
-
-| Contract | Address |
-| -------- | ------- |
-| USDC  | [`0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48`](https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) |
-| WBTC  | [`0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599`](https://etherscan.io/address/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599) |
-| WETH9 | [`0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2`](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2) |
-| MPL   | [`0x33349B282065b0284d756F0577FB39c158F935e6`](https://etherscan.io/address/0x33349B282065b0284d756F0577FB39c158F935e6) |
-| xMPL  | [`0x4937a209d4cdbd3ecd48857277cfd4da4d82914c`](https://etherscan.io/address/0x4937a209d4cdbd3ecd48857277cfd4da4d82914c) |
+# V1 Contracts 
 
 ## Administrative Contracts
 
