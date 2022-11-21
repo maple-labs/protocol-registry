@@ -34,16 +34,26 @@
 | MapleGlobals      | [`0xC234c62c8C09687DFf0d9047e40042cd166F3600`](https://etherscan.io/address/0xC234c62c8C09687DFf0d9047e40042cd166F3600) |
 | MapleTreasury     | [`0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19`](https://etherscan.io/address/0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19) |
 
-## Orthogonal Pool Contracts
+
+## Icebreaker Pool Contracts
 
 | Contract | Address |
 | -------- | ------- |
-| Pool                 | [`0xfebd6f15df3b73dc4307b1d7e65d46413e710c27`](https://etherscan.io/address/0xfebd6f15df3b73dc4307b1d7e65d46413e710c27) |
-| StakeLocker          | [`0x12b2bbbfab2ce6789df5659e9ac27a4a91c96c5c`](https://etherscan.io/address/0x12b2bbbfab2ce6789df5659e9ac27a4a91c96c5c) |
-| MplRewards (LP)      | [`0x7869d7a3b074b5fa484dc04798e254c9c06a5e90`](https://etherscan.io/address/0x7869d7a3b074b5fa484dc04798e254c9c06a5e90) |
-| MplRewards (Staking) | [`0xf9d4d5a018d91e9bccc1e35ea78fcfecf4c5cbca`](https://etherscan.io/address/0xf9d4d5a018d91e9bccc1e35ea78fcfecf4c5cbca) |
+| Pool                 | [`0x733f56782d21b403E5Ee9c8343645E1535F73CD4`](https://etherscan.io/address/0x733f56782d21b403E5Ee9c8343645E1535F73CD4) |
+| StakeLocker          | [`0x1dC467a44aE188fc3eee41d88A32511D261e511B`](https://etherscan.io/address/0x1dC467a44aE188fc3eee41d88A32511D261e511B) |
+| MplRewards (LP)      | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
+| MplRewards (Staking) | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
 
-## Maven11 Pool Contracts
+## Maven11 Permissioned Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                 | [`0xCC8058526De295c6aD917Cb41416366D69A24CdE`](https://etherscan.io/address/0xCC8058526De295c6aD917Cb41416366D69A24CdE) |
+| StakeLocker          | [`0x15D297B15A631D1f3B53A337D31BDd2d950d5402`](https://etherscan.io/address/0x15D297B15A631D1f3B53A337D31BDd2d950d5402) |
+| MplRewards (LP)      | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
+| MplRewards (Staking) | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
+
+## Maven11 USDC Pool Contracts
 
 | Contract | Address |
 | -------- | ------- |
@@ -60,6 +70,15 @@
 | StakeLocker          | [`0xd5deeb06859369e42cf1906408ed6cb249e0e002`](https://etherscan.io/address/0xd5deeb06859369e42cf1906408ed6cb249e0e002) |
 | MplRewards (LP)      | [`0x0a76c7913c94f2af16958fbdf9b4cf0bbdb159d8`](https://etherscan.io/address/0x0a76c7913c94f2af16958fbdf9b4cf0bbdb159d8) |
 | MplRewards (Staking) | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
+
+## Orthogonal USDC Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                 | [`0xfebd6f15df3b73dc4307b1d7e65d46413e710c27`](https://etherscan.io/address/0xfebd6f15df3b73dc4307b1d7e65d46413e710c27) |
+| StakeLocker          | [`0x12b2bbbfab2ce6789df5659e9ac27a4a91c96c5c`](https://etherscan.io/address/0x12b2bbbfab2ce6789df5659e9ac27a4a91c96c5c) |
+| MplRewards (LP)      | [`0x7869d7a3b074b5fa484dc04798e254c9c06a5e90`](https://etherscan.io/address/0x7869d7a3b074b5fa484dc04798e254c9c06a5e90) |
+| MplRewards (Staking) | [`0xf9d4d5a018d91e9bccc1e35ea78fcfecf4c5cbca`](https://etherscan.io/address/0xf9d4d5a018d91e9bccc1e35ea78fcfecf4c5cbca) |
 
 ## Protocol Actor Addresses
 
