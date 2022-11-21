@@ -50,33 +50,6 @@
 | MplRewards (LP)      | [`0x7c57bf654bc16b0c9080f4f75ff62876f50b8259`](https://etherscan.io/address/0x7c57bf654bc16b0c9080f4f75ff62876f50b8259) |
 | MplRewards (Staking) | [`0xe5a1cb65e7a608e778b3ccb02f7b2dfefee783b4`](https://etherscan.io/address/0xe5a1cb65e7a608e778b3ccb02f7b2dfefee783b4) |
 
-## Blocktower Pool Contracts
-
-| Contract | Address |
-| -------- | ------- |
-| Pool                 | [`0xd618d93676762a8e3107554d9adbff7dfd7fbf47`](https://etherscan.io/address/0xd618d93676762a8e3107554d9adbff7dfd7fbf47) |
-| StakeLocker          | [`0xd9631f58f3afcd1d0e5863b31c7924a3fb79253d`](https://etherscan.io/address/0xd9631f58f3afcd1d0e5863b31c7924a3fb79253d) |
-| MplRewards (LP)      | [`0xd0123f5220a36e9ec6082d83b4a11f92aa48ccd0`](https://etherscan.io/address/0xd0123f5220a36e9ec6082d83b4a11f92aa48ccd0) |
-| MplRewards (Staking) | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
-
-## Alameda Pool Contracts
-
-| Contract | Address |
-| -------- | ------- |
-| Pool                 | [`0x3e701d29fcb8747b5c3f88649397d88fff9bd3e9`](https://etherscan.io/address/0x3e701d29fcb8747b5c3f88649397d88fff9bd3e9) |
-| StakeLocker          | [`0xbcaaca59abb59e331bc8e787e8134c9491a30766`](https://etherscan.io/address/0xbcaaca59abb59e331bc8e787e8134c9491a30766) |
-| MplRewards (LP)      | [`0x5e804b9a61b3e5bf2718ea249deb13366129b7de`](https://etherscan.io/address/0x5e804b9a61b3e5bf2718ea249deb13366129b7de) |
-| MplRewards (Staking) | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
-
-## Celsius WETH Pool Contracts
-
-| Contract | Address |
-| -------- | ------- |
-| Pool                 | [`0xa1fe1b5fc23c2dab0c28d4cc09021014f30be8f1`](https://etherscan.io/address/0xa1fe1b5fc23c2dab0c28d4cc09021014f30be8f1) |
-| StakeLocker          | [`0xb46be5bb19eb95b5a2b4d3b6276a2e703d6e4082`](https://etherscan.io/address/0xb46be5bb19eb95b5a2b4d3b6276a2e703d6e4082) |
-| MplRewards (LP)      | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
-| MplRewards (Staking) | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
-
 ## Maven11 WETH Pool Contracts
 
 | Contract | Address |
@@ -158,3 +131,34 @@
 | PriceOracleWETH         | [`0x40db4461402125fd848ccf89f39166d42db0aa47`](https://etherscan.io/address/0x40db4461402125fd848ccf89f39166d42db0aa47) |
 | ChainLinkAggregatorWBTC | [`0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c`](https://etherscan.io/address/0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c) |
 | ChainLinkAggregatorWETH | [`0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419`](https://etherscan.io/address/0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419) |
+
+# Deprecated Addresses
+
+## Blocktower Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                 | [`0xd618d93676762a8e3107554d9adbff7dfd7fbf47`](https://etherscan.io/address/0xd618d93676762a8e3107554d9adbff7dfd7fbf47) |
+| StakeLocker          | [`0xd9631f58f3afcd1d0e5863b31c7924a3fb79253d`](https://etherscan.io/address/0xd9631f58f3afcd1d0e5863b31c7924a3fb79253d) |
+| MplRewards (LP)      | [`0xd0123f5220a36e9ec6082d83b4a11f92aa48ccd0`](https://etherscan.io/address/0xd0123f5220a36e9ec6082d83b4a11f92aa48ccd0) |
+| MplRewards (Staking) | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
+
+## Alameda Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                 | [`0x3e701d29fcb8747b5c3f88649397d88fff9bd3e9`](https://etherscan.io/address/0x3e701d29fcb8747b5c3f88649397d88fff9bd3e9) |
+| StakeLocker          | [`0xbcaaca59abb59e331bc8e787e8134c9491a30766`](https://etherscan.io/address/0xbcaaca59abb59e331bc8e787e8134c9491a30766) |
+| MplRewards (LP)      | [`0x5e804b9a61b3e5bf2718ea249deb13366129b7de`](https://etherscan.io/address/0x5e804b9a61b3e5bf2718ea249deb13366129b7de) |
+| MplRewards (Staking) | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
+
+## Celsius WETH Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                 | [`0xa1fe1b5fc23c2dab0c28d4cc09021014f30be8f1`](https://etherscan.io/address/0xa1fe1b5fc23c2dab0c28d4cc09021014f30be8f1) |
+| StakeLocker          | [`0xb46be5bb19eb95b5a2b4d3b6276a2e703d6e4082`](https://etherscan.io/address/0xb46be5bb19eb95b5a2b4d3b6276a2e703d6e4082) |
+| MplRewards (LP)      | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
+| MplRewards (Staking) | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
+
+
