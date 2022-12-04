@@ -11,6 +11,7 @@
 
 | Contract | Address |
 | -------- | ------- |
+| Pool Delegate        | [`0x184e46651946B861654436027bffdC97f9a45079`](https://etherscan.io/address/0x184e46651946B861654436027bffdC97f9a45079) |
 | Pool                 | [`0x733f56782d21b403E5Ee9c8343645E1535F73CD4`](https://etherscan.io/address/0x733f56782d21b403E5Ee9c8343645E1535F73CD4) |
 | StakeLocker          | [`0x1dC467a44aE188fc3eee41d88A32511D261e511B`](https://etherscan.io/address/0x1dC467a44aE188fc3eee41d88A32511D261e511B) |
 | MplRewards (LP)      | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
@@ -20,6 +21,7 @@
 
 | Contract | Address |
 | -------- | ------- |
+| Pool Delegate        | [`0xab38A4E78a0549f60Df1A78f15f35F03F39f11F4`](https://etherscan.io/address/0xab38A4E78a0549f60Df1A78f15f35F03F39f11F4) |
 | Pool                 | [`0xCC8058526De295c6aD917Cb41416366D69A24CdE`](https://etherscan.io/address/0xCC8058526De295c6aD917Cb41416366D69A24CdE) |
 | StakeLocker          | [`0x15D297B15A631D1f3B53A337D31BDd2d950d5402`](https://etherscan.io/address/0x15D297B15A631D1f3B53A337D31BDd2d950d5402) |
 | MplRewards (LP)      | [`0x0000000000000000000000000000000000000000`](https://etherscan.io/address/0x0000000000000000000000000000000000000000) |
@@ -29,6 +31,7 @@
 
 | Contract | Address |
 | -------- | ------- |
+| Pool Delegate        | [`0x8B4aa04E9642b387293cE6fFfA42715a9cd19f3C`](https://etherscan.io/address/0x8B4aa04E9642b387293cE6fFfA42715a9cd19f3C) |
 | Pool                 | [`0x6f6c8013f639979c84b756c7fc1500eb5af18dc4`](https://etherscan.io/address/0x6f6c8013f639979c84b756c7fc1500eb5af18dc4) |
 | StakeLocker          | [`0xbb7866435b8e5d3f6c2ea8b720c8f79db6f7c1b4`](https://etherscan.io/address/0xbb7866435b8e5d3f6c2ea8b720c8f79db6f7c1b4) |
 | MplRewards (LP)      | [`0x7c57bf654bc16b0c9080f4f75ff62876f50b8259`](https://etherscan.io/address/0x7c57bf654bc16b0c9080f4f75ff62876f50b8259) |
@@ -38,6 +41,7 @@
 
 | Contract | Address |
 | -------- | ------- |
+| Pool Delegate        | [`0x990d11977378D4610776e6646b2cAAe543Ea4EDA`](https://etherscan.io/address/0x990d11977378D4610776e6646b2cAAe543Ea4EDA) |
 | Pool                 | [`0x1a066b0109545455bc771e49e6edef6303cb0a93`](https://etherscan.io/address/0x1a066b0109545455bc771e49e6edef6303cb0a93) |
 | StakeLocker          | [`0xd5deeb06859369e42cf1906408ed6cb249e0e002`](https://etherscan.io/address/0xd5deeb06859369e42cf1906408ed6cb249e0e002) |
 | MplRewards (LP)      | [`0x0a76c7913c94f2af16958fbdf9b4cf0bbdb159d8`](https://etherscan.io/address/0x0a76c7913c94f2af16958fbdf9b4cf0bbdb159d8) |
@@ -47,6 +51,7 @@
 
 | Contract | Address |
 | -------- | ------- |
+| Pool Delegate        | [`0xA6cCb9483E3E7a737E3a4F5B72a1Ce51838ba122`](https://etherscan.io/address/0xA6cCb9483E3E7a737E3a4F5B72a1Ce51838ba122) |
 | Pool                 | [`0xfebd6f15df3b73dc4307b1d7e65d46413e710c27`](https://etherscan.io/address/0xfebd6f15df3b73dc4307b1d7e65d46413e710c27) |
 | StakeLocker          | [`0x12b2bbbfab2ce6789df5659e9ac27a4a91c96c5c`](https://etherscan.io/address/0x12b2bbbfab2ce6789df5659e9ac27a4a91c96c5c) |
 | MplRewards (LP)      | [`0x7869d7a3b074b5fa484dc04798e254c9c06a5e90`](https://etherscan.io/address/0x7869d7a3b074b5fa484dc04798e254c9c06a5e90) |
