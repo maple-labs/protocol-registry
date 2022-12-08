@@ -10,7 +10,7 @@
 
 | Protocol Multisig | Gnosis Safe Link |
 | -------- | ------- |
-| Migration Admin | [`0x2AD93F308AA812961Ec412a08eD778F4f4933758`](https://app.safe.global/eth:0x2AD93F308AA812961Ec412a08eD778F4f4933758/home) |
+| Migration Multisig | [`0x2AD93F308AA812961Ec412a08eD778F4f4933758`](https://app.safe.global/eth:0x2AD93F308AA812961Ec412a08eD778F4f4933758/home) |
 | Security Admin | [`0x2AD93F308AA812961Ec412a08eD778F4f4933758`](https://app.safe.global/eth:0x2AD93F308AA812961Ec412a08eD778F4f4933758/home) |
 | Temporary Governor | [`0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200`](https://app.safe.global/eth:0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200/home) |
 
