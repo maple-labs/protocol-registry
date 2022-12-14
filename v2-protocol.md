@@ -2,8 +2,8 @@
 
 | Contract | Address |
 | -------- | ------- |
-| MapleGlobalsV2    | [`0x804a6F5F667170F545Bf14e5DDB48C70B788390C`](https://etherscan.io/address/0x804a6F5F667170F545Bf14e5DDB48C70B788390C) |
-| MapleTreasury     | [`0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19`](https://etherscan.io/address/0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19) |
+| MapleGlobalsV2 | [`0x804a6F5F667170F545Bf14e5DDB48C70B788390C`](https://etherscan.io/address/0x804a6F5F667170F545Bf14e5DDB48C70B788390C) |
+| MapleTreasury  | [`0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19`](https://etherscan.io/address/0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19) |
 
 # Pool Contracts
 
@@ -64,7 +64,6 @@
 | Governor       | [`0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200`](https://etherscan.io/address/0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200) |
 | GlobalAdmin    | [`0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200`](https://etherscan.io/address/0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200) |
 | SecurityAdmin  | [`0x6b1A78C1943b03086F7Ee53360f9b0672bD60818`](https://etherscan.io/address/0x6b1A78C1943b03086F7Ee53360f9b0672bD60818) |
-| MigrationAdmin | [`0x580B1A894b9FbdBf7d29Ba9b492807Bf539dD508`](https://etherscan.io/address/0x580B1A894b9FbdBf7d29Ba9b492807Bf539dD508) |
 
 # Factory Contracts
 
@@ -115,12 +114,10 @@
 
 | Contract | Address |
 | -------- | ------- |
-| Refinancer                    | [`0xec90671c2c8f4cCBb6074938f893306a13402251`](https://etherscan.io/address/0xec90671c2c8f4cCBb6074938f893306a13402251) |
-| MigrationHelperProxy          | [`0x580B1A894b9FbdBf7d29Ba9b492807Bf539dD508`](https://etherscan.io/address/0x580B1A894b9FbdBf7d29Ba9b492807Bf539dD508) |
-| MigrationHelperImplementation | [`0xd8B74109916C0bBFDbE5e4345fF9584bDE47044a`](https://etherscan.io/address/0xd8B74109916C0bBFDbE5e4345fF9584bDE47044a) |
 | AccountingChecker             | [`0x78da667CaADD8827690111BEBeCA875723fEAf7C`](https://etherscan.io/address/0x78da667CaADD8827690111BEBeCA875723fEAf7C) |
-| DeactivationOracle            | [`0xaF99aBBc5F12CE93C144733073A80c57e81296ab`](https://etherscan.io/address/0xaF99aBBc5F12CE93C144733073A80c57e81296ab) |
-
+| FeeManager                    | [`0xFeACa6A5703E6F9DE0ebE0975C93AE34c00523F2`](https://etherscan.io/address/0xFeACa6A5703E6F9DE0ebE0975C93AE34c00523F2) |
+| PoolDeployer                  | [`0x9322fCbb9cf9F04728AD9CB62c80a12615FF9aDc`](https://etherscan.io/address/0x9322fCbb9cf9F04728AD9CB62c80a12615FF9aDc) |
+| Refinancer                    | [`0xec90671c2c8f4cCBb6074938f893306a13402251`](https://etherscan.io/address/0xec90671c2c8f4cCBb6074938f893306a13402251) |
 
 ## Oracle Contracts
 
