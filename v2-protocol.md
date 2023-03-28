@@ -37,6 +37,16 @@
 | WithdrawalManager | [`0x7ED195a0AE212D265511b0978Af577F59876C9BB`](https://etherscan.io/address/0x7ED195a0AE212D265511b0978Af577F59876C9BB) |
 | PoolDelegateCover | [`0x9c74C5147653041239bb31C799c54767D9953f7D`](https://etherscan.io/address/0x9c74C5147653041239bb31C799c54767D9953f7D) |
 
+## Maven11 USDC-3 Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool              | [`0xd2b01f8327eeca47829efc731f1a89c6d07e6b92`](https://etherscan.io/address/0xd2b01f8327eeca47829efc731f1a89c6d07e6b92) |
+| PoolManager       | [`0x83376e49c7bf776495313c89f9bf226c8b8971b6`](https://etherscan.io/address/0x83376e49c7bf776495313c89f9bf226c8b8971b6) |
+| LoanManager       | [`0x9b300a28d7dc7d422c7d1b9442db0b51a6346e00`](https://etherscan.io/address/0x9b300a28d7dc7d422c7d1b9442db0b51a6346e00) |
+| WithdrawalManager | [`0x7f0d63e2250bc99f48985b183af0c9a66bbc8ac3`](https://etherscan.io/address/0x7f0d63e2250bc99f48985b183af0c9a66bbc8ac3) |
+| PoolDelegateCover | [`0x4Ab7F6F8DE3FE2575806a21F9Cac630DD51a84Af`](https://etherscan.io/address/0x4Ab7F6F8DE3FE2575806a21F9Cac630DD51a84Af) |
+
 ## Maven11 WETH Pool Contracts
 
 | Contract | Address |
