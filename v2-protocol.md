@@ -17,6 +17,16 @@
 | WithdrawalManager | [`0x8228719eA6dCc79b77d663F13af98684a637d3A0`](https://etherscan.io/address/0x8228719eA6dCc79b77d663F13af98684a637d3A0) |
 | PoolDelegateCover | [`0x845bD1C0DBeA5eacd97E6B4544a48176F5f31Db9`](https://etherscan.io/address/0x845bD1C0DBeA5eacd97E6B4544a48176F5f31Db9) |
 
+## Cash Management Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool              | [`0xfe119e9C24ab79F1bDd5dd884B86Ceea2eE75D92`](https://etherscan.io/address/0xfe119e9C24ab79F1bDd5dd884B86Ceea2eE75D92) |
+| PoolManager       | [`0x219654A61a0BC394055652986BE403fa14405Bb8`](https://etherscan.io/address/0x219654A61a0BC394055652986BE403fa14405Bb8) |
+| LoanManager       | [`0xf4d4a5270aa834A2a77011526447fDF1e227018f`](https://etherscan.io/address/0xf4d4a5270aa834A2a77011526447fDF1e227018f) |
+| WithdrawalManager | [`0x1146691782c089bCF0B19aCb8620943a35eebD12`](https://etherscan.io/address/0x1146691782c089bCF0B19aCb8620943a35eebD12) |
+| PoolDelegateCover | [`0x324bd0ae17CCBc16F17ffC085E5B03Fd2aCf0A72`](https://etherscan.io/address/0x324bd0ae17CCBc16F17ffC085E5B03Fd2aCf0A72) |
+
 ## Icebreaker Pool Contracts
 
 | Contract | Address |
