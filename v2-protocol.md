@@ -17,7 +17,7 @@
 | WithdrawalManager    | [`0x8228719eA6dCc79b77d663F13af98684a637d3A0`](https://etherscan.io/address/0x8228719eA6dCc79b77d663F13af98684a637d3A0) |
 | PoolDelegateCover    | [`0x845bD1C0DBeA5eacd97E6B4544a48176F5f31Db9`](https://etherscan.io/address/0x845bD1C0DBeA5eacd97E6B4544a48176F5f31Db9) |
 
-## Cash Management Pool Contracts
+## Cash Management - USDC Pool Contracts
 
 | Contract | Address |
 | -------- | ------- |
@@ -27,6 +27,17 @@
 | OpenTermLoanManager  | [`0xfAB269CB4Ab4D33A61e1648114f6147742F5eeCC`](https://etherscan.io/address/0xfAB269CB4Ab4D33A61e1648114f6147742F5eeCC) |
 | WithdrawalManager    | [`0x1146691782c089bCF0B19aCb8620943a35eebD12`](https://etherscan.io/address/0x1146691782c089bCF0B19aCb8620943a35eebD12) |
 | PoolDelegateCover    | [`0x324bd0ae17CCBc16F17ffC085E5B03Fd2aCf0A72`](https://etherscan.io/address/0x324bd0ae17CCBc16F17ffC085E5B03Fd2aCf0A72) |
+
+## Cash Management - USDT Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                 | [`0xf05681a33a9adf14076990789a89ab3da3f6b536`](https://etherscan.io/address/0xf05681a33a9adf14076990789a89ab3da3f6b536) |
+| PoolManager          | [`0xe76b219f83e887e2503e14c343bb7e0b62a7af5d`](https://etherscan.io/address/0xe76b219f83e887e2503e14c343bb7e0b62a7af5d) |
+| FixedTermLoanManager | [`0x1b61765e954113e6508c4f9db07675989f7f5874`](https://etherscan.io/address/0x1b61765e954113e6508c4f9db07675989f7f5874) |
+| OpenTermLoanManager  | [`0x93b0f6f03cc6996120c19abff3e585fdb8d88648`](https://etherscan.io/address/0x93b0f6f03cc6996120c19abff3e585fdb8d88648) |
+| WithdrawalManager    | [`0xf0a66f70064ad3198abb35aae26b1eeeaea62c4b`](https://etherscan.io/address/0xf0a66f70064ad3198abb35aae26b1eeeaea62c4b) |
+| PoolDelegateCover    | [`0x40750d41B4D2e0ff1736623a968fF7598D90F25a`](https://etherscan.io/address/0x40750d41B4D2e0ff1736623a968fF7598D90F25a) |
 
 ## Icebreaker Pool Contracts
 
