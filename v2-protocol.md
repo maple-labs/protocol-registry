@@ -49,6 +49,17 @@
 | WithdrawalManager    | [`0x4ec570457C3954feE01309A30C603ABD51899C77`](https://etherscan.io/address/0x4ec570457C3954feE01309A30C603ABD51899C77) |
 | PoolDelegateCover    | [`0xA198C1dc00297Ae477F2D42D5a9E1cd4a364191f`](https://etherscan.io/address/0xA198C1dc00297Ae477F2D42D5a9E1cd4a364191f) |
 
+## Maple Direct USDC1 Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                 | [`0xc1dD3F011290F212227170F0D02F511EBF57E433`](https://etherscan.io/address/0xc1dD3F011290F212227170F0D02F511EBF57E433) |
+| PoolManager          | [`0x5eE9587Bf5f4ccceEEd87B0216a31EBb513fAC25`](https://etherscan.io/address/0x5eE9587Bf5f4ccceEEd87B0216a31EBb513fAC25) |
+| FixedTermLoanManager | [`0xdC9b93A8A336fe5dc9DB97616eA2118000d70fc0`](https://etherscan.io/address/0xdC9b93A8A336fe5dc9DB97616eA2118000d70fc0) |
+| OpenTermLoanManager  | [`0x91582bDFEF0Bf36Fc326A4aB9b59aAcD61c105fF`](https://etherscan.io/address/0x91582bDFEF0Bf36Fc326A4aB9b59aAcD61c105fF) |
+| WithdrawalManager    | [`0xB7ae6358ABA6E7a60C7B921B8Cbb3fddB3EE9060`](https://etherscan.io/address/0xB7ae6358ABA6E7a60C7B921B8Cbb3fddB3EE9060) |
+| PoolDelegateCover    | [`0x773C634B1c12A4A7036eeeA21586dAeD1Df313C5`](https://etherscan.io/address/0x773C634B1c12A4A7036eeeA21586dAeD1Df313C5) |
+
 ## Maven11 Permissioned Pool Contracts
 
 | Contract | Address |
