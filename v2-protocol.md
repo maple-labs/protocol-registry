@@ -14,7 +14,7 @@
 | Pool                 | [`0xe9d33286f0E37f517B1204aA6dA085564414996d`](https://etherscan.io/address/0xe9d33286f0E37f517B1204aA6dA085564414996d) |
 | PoolManager          | [`0xA9c908Ee077eE26B52137FfF714150C7Eb69E160`](https://etherscan.io/address/0xA9c908Ee077eE26B52137FfF714150C7Eb69E160) |
 | FixedTermLoanManager | [`0xd05998A1940294E3E49f99DBB13fe20A3483F5Ae`](https://etherscan.io/address/0xd05998A1940294E3E49f99DBB13fe20A3483F5Ae) |
-| WithdrawalManager    | [`0x8228719eA6dCc79b77d663F13af98684a637d3A0`](https://etherscan.io/address/0x8228719eA6dCc79b77d663F13af98684a637d3A0) |
+| WithdrawalManager    | [`0x515f77Fc8E1473591a89181a2Cf6CD0AAf3f932d`](https://etherscan.io/address/0x515f77Fc8E1473591a89181a2Cf6CD0AAf3f932d) |
 | PoolDelegateCover    | [`0x845bD1C0DBeA5eacd97E6B4544a48176F5f31Db9`](https://etherscan.io/address/0x845bD1C0DBeA5eacd97E6B4544a48176F5f31Db9) |
 
 ## Cash Management - USDC Pool Contracts
