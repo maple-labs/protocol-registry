@@ -14,6 +14,7 @@
 | Pool                 | [`0xe9d33286f0E37f517B1204aA6dA085564414996d`](https://etherscan.io/address/0xe9d33286f0E37f517B1204aA6dA085564414996d) |
 | PoolManager          | [`0xA9c908Ee077eE26B52137FfF714150C7Eb69E160`](https://etherscan.io/address/0xA9c908Ee077eE26B52137FfF714150C7Eb69E160) |
 | FixedTermLoanManager | [`0xd05998A1940294E3E49f99DBB13fe20A3483F5Ae`](https://etherscan.io/address/0xd05998A1940294E3E49f99DBB13fe20A3483F5Ae) |
+| OpenTermLoanManager  | [`0x483082e93635ef280bc5E9f65575A7ff288aBA33`](https://etherscan.io/address/0x483082e93635ef280bc5E9f65575A7ff288aBA33) |
 | WithdrawalManager    | [`0x515f77Fc8E1473591a89181a2Cf6CD0AAf3f932d`](https://etherscan.io/address/0x515f77Fc8E1473591a89181a2Cf6CD0AAf3f932d) |
 | PoolDelegateCover    | [`0x845bD1C0DBeA5eacd97E6B4544a48176F5f31Db9`](https://etherscan.io/address/0x845bD1C0DBeA5eacd97E6B4544a48176F5f31Db9) |
 
@@ -55,8 +56,8 @@
 | -------- | ------- |
 | Pool                 | [`0xc1dD3F011290F212227170F0D02F511EBF57E433`](https://etherscan.io/address/0xc1dD3F011290F212227170F0D02F511EBF57E433) |
 | PoolManager          | [`0x5eE9587Bf5f4ccceEEd87B0216a31EBb513fAC25`](https://etherscan.io/address/0x5eE9587Bf5f4ccceEEd87B0216a31EBb513fAC25) |
-| FixedTermLoanManager | [`0xdC9b93A8A336fe5dc9DB97616eA2118000d70fc0`](https://etherscan.io/address/0xdC9b93A8A336fe5dc9DB97616eA2118000d70fc0) |
-| OpenTermLoanManager  | [`0x91582bDFEF0Bf36Fc326A4aB9b59aAcD61c105fF`](https://etherscan.io/address/0x91582bDFEF0Bf36Fc326A4aB9b59aAcD61c105fF) |
+| FixedTermLoanManager | [`0x91582bDFEF0Bf36Fc326A4aB9b59aAcD61c105fF`](https://etherscan.io/address/0x91582bDFEF0Bf36Fc326A4aB9b59aAcD61c105fF) |
+| OpenTermLoanManager  | [`0xdC9b93A8A336fe5dc9DB97616eA2118000d70fc0`](https://etherscan.io/address/0xdC9b93A8A336fe5dc9DB97616eA2118000d70fc0) |
 | WithdrawalManager    | [`0xB7ae6358ABA6E7a60C7B921B8Cbb3fddB3EE9060`](https://etherscan.io/address/0xB7ae6358ABA6E7a60C7B921B8Cbb3fddB3EE9060) |
 | PoolDelegateCover    | [`0x773C634B1c12A4A7036eeeA21586dAeD1Df313C5`](https://etherscan.io/address/0x773C634B1c12A4A7036eeeA21586dAeD1Df313C5) |
 
