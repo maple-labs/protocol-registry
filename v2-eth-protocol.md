@@ -67,7 +67,7 @@
 | -------- | ------- |
 | Pool                 | [`0xd020c197497DB6Db12CFF97a8575451c6FAa54B3`](https://etherscan.io/address/0xd020c197497DB6Db12CFF97a8575451c6FAa54B3) |
 | PoolManager          | [`0xe7C2Ab602A23F09faAdaB822bb64278fFf171427`](https://etherscan.io/address/0xe7C2Ab602A23F09faAdaB822bb64278fFf171427) |
-| FixedTermLoanManager | [`0x7a459f1fb7d257fc62e23aaa8b802e061cec68d7`](https://etherscan.io/address/0x7a459f1fb7d257fc62e23aaa8b802e061cec68d7) |
+| FixedTermLoanManager | [`0x7a459F1fB7d257fC62E23aaa8b802e061CEc68D7`](https://etherscan.io/address/0x7a459F1fB7d257fC62E23aaa8b802e061CEc68D7) |
 | OpenTermLoanManager  | [`0xA34e6B033275567A0F90A5BF93bA1485C657f092`](https://etherscan.io/address/0xA34e6B033275567A0F90A5BF93bA1485C657f092) |
 | WithdrawalManager    | [`0xf817eC56Cb26117cf3bd5a8a8f128d64998fF234`](https://etherscan.io/address/0xf817eC56Cb26117cf3bd5a8a8f128d64998fF234) |
 | PoolDelegateCover    | [`0x412A26d5f8220182cb2A5aBB751A1AeD22225271`](https://etherscan.io/address/0x412A26d5f8220182cb2A5aBB751A1AeD22225271) |
