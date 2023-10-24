@@ -40,6 +40,17 @@
 | WithdrawalManager    | [`0xf0a66f70064ad3198abb35aae26b1eeeaea62c4b`](https://etherscan.io/address/0xf0a66f70064ad3198abb35aae26b1eeeaea62c4b) |
 | PoolDelegateCover    | [`0x40750d41B4D2e0ff1736623a968fF7598D90F25a`](https://etherscan.io/address/0x40750d41B4D2e0ff1736623a968fF7598D90F25a) |
 
+## Cicada Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                 | [`0xf025edFA685c9Ea873ea4B22DA85E7e1Fba24381`](https://etherscan.io/address/0xf025edFA685c9Ea873ea4B22DA85E7e1Fba24381) |
+| PoolManager          | [`0xba5936d5D8E5b050159ff8Ccb2589309e3071c2a`](https://etherscan.io/address/0xba5936d5D8E5b050159ff8Ccb2589309e3071c2a) |
+| FixedTermLoanManager | [`0xD7217F29d51deFfc6d5F95fF0a5200F3d34c0f66`](https://etherscan.io/address/0xD7217F29d51deFfc6d5F95fF0a5200F3d34c0f66) |
+| OpenTermLoanManager  | [`0xd205B3eD8408afcA53315798b891F37Bd4c5Ce2a`](https://etherscan.io/address/0xd205B3eD8408afcA53315798b891F37Bd4c5Ce2a) |
+| WithdrawalManager    | [`0x4a5f63D9425070785EB10f5a0C33E42F16BB8639`](https://etherscan.io/address/0x4a5f63D9425070785EB10f5a0C33E42F16BB8639) |
+| PoolDelegateCover    | [`0xd1a42064B7EE5525FdBb779170462abF24395D6F`](https://etherscan.io/address/0xd1a42064B7EE5525FdBb779170462abF24395D6F) |
+
 ## Icebreaker Pool Contracts
 
 | Contract | Address |
@@ -49,6 +60,17 @@
 | FixedTermLoanManager | [`0x7dCA0cd3F1eBAE3640AC4c66688A9d3A184aF822`](https://etherscan.io/address/0x7dCA0cd3F1eBAE3640AC4c66688A9d3A184aF822) |
 | WithdrawalManager    | [`0x4ec570457C3954feE01309A30C603ABD51899C77`](https://etherscan.io/address/0x4ec570457C3954feE01309A30C603ABD51899C77) |
 | PoolDelegateCover    | [`0xA198C1dc00297Ae477F2D42D5a9E1cd4a364191f`](https://etherscan.io/address/0xA198C1dc00297Ae477F2D42D5a9E1cd4a364191f) |
+
+## Laser Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                 | [`0xd020c197497DB6Db12CFF97a8575451c6FAa54B3`](https://etherscan.io/address/0xd020c197497DB6Db12CFF97a8575451c6FAa54B3) |
+| PoolManager          | [`0xe7C2Ab602A23F09faAdaB822bb64278fFf171427`](https://etherscan.io/address/0xe7C2Ab602A23F09faAdaB822bb64278fFf171427) |
+| FixedTermLoanManager | [`0x7a459F1fB7d257fC62E23aaa8b802e061CEc68D7`](https://etherscan.io/address/0x7a459F1fB7d257fC62E23aaa8b802e061CEc68D7) |
+| OpenTermLoanManager  | [`0xA34e6B033275567A0F90A5BF93bA1485C657f092`](https://etherscan.io/address/0xA34e6B033275567A0F90A5BF93bA1485C657f092) |
+| WithdrawalManager    | [`0xf817eC56Cb26117cf3bd5a8a8f128d64998fF234`](https://etherscan.io/address/0xf817eC56Cb26117cf3bd5a8a8f128d64998fF234) |
+| PoolDelegateCover    | [`0x412A26d5f8220182cb2A5aBB751A1AeD22225271`](https://etherscan.io/address/0x412A26d5f8220182cb2A5aBB751A1AeD22225271) |
 
 ## Maple Direct USDC1 Pool Contracts
 
