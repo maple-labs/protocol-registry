@@ -5,16 +5,25 @@
 | MapleGlobalsV2 | [`0x7f3C3636208A18c7941BF051807db56864061465`](https://basescan.org/address/0x7f3C3636208A18c7941BF051807db56864061465) |
 | MapleTreasury  | [`0x3A5ab01B4E142F41f54a861c984D19C866Ec1736`](https://basescan.org/address/0x3A5ab01B4E142F41f54a861c984D19C866Ec1736) |
 
-# Pool Contracts
-
-## TBC
-
 # Protocol Actor Addresses
 
 | Contract | Address |
 | -------- | ------- |
 | Governor       | [`0xD9481a47DFe8E5C35Eb809df25cdB5Bc2E24A3bE`](https://basescan.org/address/0xD9481a47DFe8E5C35Eb809df25cdB5Bc2E24A3bE) |
 | SecurityAdmin  | [`0x6150371231f783e97906af4861Bc1eD11cE1c9Ea`](https://basescan.org/address/0x6150371231f783e97906af4861Bc1eD11cE1c9Ea) |
+
+# Pool Contracts
+
+## Cash Management - USDC Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                 | [`0xdd5bb9acf5e02089735a33344c6e3a8bb0d4075d`](https://basescan.org/address/0xdd5bb9acf5e02089735a33344c6e3a8bb0d4075d) |
+| PoolManager          | [`0x7aa13f647691a709dc3360acad7eb758179790ee`](https://basescan.org/address/0x7aa13f647691a709dc3360acad7eb758179790ee) |
+| FixedTermLoanManager | [`0xc3e5eec47cccdfae4bca7bf40ca2711c4cb60491`](https://basescan.org/address/0xc3e5eec47cccdfae4bca7bf40ca2711c4cb60491) |
+| OpenTermLoanManager  | [`0xd1a9ffefe76ee44ca724bef30e16ead1ba039601`](https://basescan.org/address/0xd1a9ffefe76ee44ca724bef30e16ead1ba039601) |
+| WithdrawalManager    | [`0x6495f96b89904f574817a3b191c7817d91fe96eb`](https://basescan.org/address/0x6495f96b89904f574817a3b191c7817d91fe96eb) |
+| PoolDelegateCover    | [`0x28378DFC7bAe84C668d960c6E8CD862Fda43ba70`](https://basescan.org/address/0x28378DFC7bAe84C668d960c6E8CD862Fda43ba70) |
 
 # Factory Contracts
 
