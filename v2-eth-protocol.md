@@ -2,8 +2,9 @@
 
 | Contract | Address |
 | -------- | ------- |
-| MapleGlobalsV2 | [`0x804a6F5F667170F545Bf14e5DDB48C70B788390C`](https://etherscan.io/address/0x804a6F5F667170F545Bf14e5DDB48C70B788390C) |
-| MapleTreasury  | [`0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19`](https://etherscan.io/address/0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19) |
+| MapleGlobals  | [`0x804a6F5F667170F545Bf14e5DDB48C70B788390C`](https://etherscan.io/address/0x804a6F5F667170F545Bf14e5DDB48C70B788390C) |
+| MapleTreasury | [`0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19`](https://etherscan.io/address/0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19) |
+
 
 # Pool Contracts
 
@@ -133,25 +134,39 @@
 | WithdrawalManager    | [`0xD8f8BD488ba6DDF2a710f6C357a884fd1706981A`](https://etherscan.io/address/0xD8f8BD488ba6DDF2a710f6C357a884fd1706981A) |
 | PoolDelegateCover    | [`0xb9Bae8c63593e51A296857AC4C150bae31a4e2c3`](https://etherscan.io/address/0xb9Bae8c63593e51A296857AC4C150bae31a4e2c3) |
 
+## Opportunistic USDC Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                 | [`0x6174A27160f4D7885Db4FFeD1C0b5fbD66c87F3a`](https://etherscan.io/address/0x6174A27160f4D7885Db4FFeD1C0b5fbD66c87F3a) |
+| PoolManager          | [`0x81525e55ccfec06f11f1Fdeaf446652c4eC2064F`](https://etherscan.io/address/0x81525e55ccfec06f11f1Fdeaf446652c4eC2064F) |
+| FixedTermLoanManager | [`0xEca9d2C5f81DD50DCe7493104467dC33362a436F`](https://etherscan.io/address/0xEca9d2C5f81DD50DCe7493104467dC33362a436F) |
+| OpenTermLoanManager  | [`0x2638802a78D6a97d0041CC7B52fb9A80994424cd`](https://etherscan.io/address/0x2638802a78D6a97d0041CC7B52fb9A80994424cd) |
+| WithdrawalManager    | [`0x8761404E5b2F02fA87d62d20c39E38fD848F72Ce`](https://etherscan.io/address/0x8761404E5b2F02fA87d62d20c39E38fD848F72Ce) |
+| PoolDelegateCover    | [`0xc6cfB7C88d1F072B92984adfcA19D3711C97B416`](https://etherscan.io/address/0xc6cfB7C88d1F072B92984adfcA19D3711C97B416) |
+
+
 # Protocol Actor Addresses
 
 | Contract | Address |
 | -------- | ------- |
-| Governor       | [`0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200`](https://etherscan.io/address/0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200) |
-| GlobalAdmin    | [`0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200`](https://etherscan.io/address/0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200) |
-| SecurityAdmin  | [`0x6b1A78C1943b03086F7Ee53360f9b0672bD60818`](https://etherscan.io/address/0x6b1A78C1943b03086F7Ee53360f9b0672bD60818) |
+| Governor         | [`0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200`](https://etherscan.io/address/0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200) |
+| GlobalAdmin      | [`0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200`](https://etherscan.io/address/0x0D8b2C1F11c5f9cD51de6dB3b256C1e3b0800200) |
+| SecurityAdmin    | [`0x6b1A78C1943b03086F7Ee53360f9b0672bD60818`](https://etherscan.io/address/0x6b1A78C1943b03086F7Ee53360f9b0672bD60818) |
+| OperationalAdmin | [`0xCe1cE7c7F436DCc4E28Bc8bf86115514d3DC34E8`](https://etherscan.io/address/0xCe1cE7c7F436DCc4E28Bc8bf86115514d3DC34E8) |
 
 # Factory Contracts
 
 | Contract | Address |
 | -------- | ------- |
-| LoanV2Factory (fixed-term)  | [`0x36a7350309B2Eb30F3B908aB0154851B5ED81db0`](https://etherscan.io/address/0x36a7350309B2Eb30F3B908aB0154851B5ED81db0) |
-| OpenTermLoanFactory         | [`0x6Fad515Fc046DD17166453A79725f50b917b7cF6`](https://etherscan.io/address/0x6fad515fc046dd17166453a79725f50b917b7cf6) |
-| LiquidatorFactory           | [`0xa2091116649b070D2a27Fc5C85c9820302114c63`](https://etherscan.io/address/0xa2091116649b070D2a27Fc5C85c9820302114c63) |
-| FixedTermLoanManagerFactory | [`0x1551717AE4FdCB65ed028F7fB7abA39908f6A7A6`](https://etherscan.io/address/0x1551717AE4FdCB65ed028F7fB7abA39908f6A7A6) |
-| OpenTermLoanManagerFactory  | [`0x90b14505221a24039A2D11Ad5862339db97Cc160`](https://etherscan.io/address/0x90b14505221a24039A2D11Ad5862339db97Cc160) |
-| PoolManagerFactory          | [`0xE463cD473EcC1d1A4ecF20b62624D84DD20a8339`](https://etherscan.io/address/0xE463cD473EcC1d1A4ecF20b62624D84DD20a8339) |
-| WithdrawalManagerFactory    | [`0xb9e25B584dc4a7C9d47aEF577f111fBE5705773B`](https://etherscan.io/address/0xb9e25B584dc4a7C9d47aEF577f111fBE5705773B) |
+| FixedTermLoanFactory             | [`0xeA067DB5B32CE036Ee5D8607DBB02f544768dBC6`](https://etherscan.io/address/0xeA067DB5B32CE036Ee5D8607DBB02f544768dBC6) |
+| OpenTermLoanFactory              | [`0x6Fad515Fc046DD17166453A79725f50b917b7cF6`](https://etherscan.io/address/0x6fad515fc046dd17166453a79725f50b917b7cf6) |
+| LiquidatorFactory                | [`0xa2091116649b070D2a27Fc5C85c9820302114c63`](https://etherscan.io/address/0xa2091116649b070D2a27Fc5C85c9820302114c63) |
+| FixedTermLoanManagerFactory      | [`0x1551717AE4FdCB65ed028F7fB7abA39908f6A7A6`](https://etherscan.io/address/0x1551717AE4FdCB65ed028F7fB7abA39908f6A7A6) |
+| OpenTermLoanManagerFactory       | [`0x90b14505221a24039A2D11Ad5862339db97Cc160`](https://etherscan.io/address/0x90b14505221a24039A2D11Ad5862339db97Cc160) |
+| PoolManagerFactory               | [`0xE463cD473EcC1d1A4ecF20b62624D84DD20a8339`](https://etherscan.io/address/0xE463cD473EcC1d1A4ecF20b62624D84DD20a8339) |
+| WithdrawalManagerCyclicalFactory | [`0xb9e25B584dc4a7C9d47aEF577f111fBE5705773B`](https://etherscan.io/address/0xb9e25B584dc4a7C9d47aEF577f111fBE5705773B) |
+| WithdrawalManagerQueueFactory    | [`0xca33105902E8d232DDFb9f71Ff3D79C7E7f2C4e5`](https://etherscan.io/address/0xca33105902E8d232DDFb9f71Ff3D79C7E7f2C4e5) |
 
 
 # Proxy Implementation & Initializer Contracts
@@ -169,6 +184,11 @@
 | FixedTermLoanV501            | [`0x98b7893C5717aF41d3e351c6e3445Be02a062A90`](https://etherscan.io/address/0x98b7893C5717aF41d3e351c6e3445Be02a062A90) |
 | FixedTermLoanV500Initializer | [`0x8F596D2f57C26FB1CD22F25c9a686e38A62Ce137`](https://etherscan.io/address/0x8F596D2f57C26FB1CD22F25c9a686e38A62Ce137) |
 | FixedTermLoanV500Migrator    | [`0xAf19511EA6Ad222695A762Ce01b33fd2d777992c`](https://etherscan.io/address/0xAf19511EA6Ad222695A762Ce01b33fd2d777992c) |
+
+## FixedTermLoan V502 Contracts
+| FixedTermLoanV502            | [`0x7a6F2C7B4F6aD1cB00AB23ECc5b41D25dA439005`](https://etherscan.io/address/0x7a6F2C7B4F6aD1cB00AB23ECc5b41D25dA439005) |
+| FixedTermLoanV502Initializer | [`0x8F596D2f57C26FB1CD22F25c9a686e38A62Ce137`](https://etherscan.io/address/0x8F596D2f57C26FB1CD22F25c9a686e38A62Ce137) |
+| FixedTermLoanV502Migrator    | [`0x6D4416E6C0536fD33127d38Af21bc912475584E3`](https://etherscan.io/address/0x6D4416E6C0536fD33127d38Af21bc912475584E3) |
 
 ## OpenTermLoan V101 Contracts
 | Contract | Address |
@@ -212,11 +232,33 @@
 | PoolManagerV200            | [`0xb918c805B33B02895F6F06c2EfA31d178678c947`](https://etherscan.io/address/0xb918c805B33B02895F6F06c2EfA31d178678c947) |
 | PoolManagerV200Initializer | [`0x0B240bf499773905802eE4DE43f96407C436d549`](https://etherscan.io/address/0x0B240bf499773905802eE4DE43f96407C436d549) |
 
-## WithdrawalManager V100 Contracts
+## PoolManager V300 Contracts
+| PoolManagerV300            | [`0x0055c00ba4Dec5ed545A5419C4d430daDa8cb1CE`](https://etherscan.io/address/0x0055c00ba4Dec5ed545A5419C4d430daDa8cb1CE) |
+| PoolManagerV300Initializer | [`0x252C44A1630095504E3D3972b9b296f5ED494911`](https://etherscan.io/address/0x252C44A1630095504E3D3972b9b296f5ED494911) |
+| PoolManagerV300Migrator    | [`0x9450d0D19802Ae0aDD44565752CDAB70E0A1C6ed`](https://etherscan.io/address/0x9450d0D19802Ae0aDD44565752CDAB70E0A1C6ed) |
+
+## PoolManager V301 Contracts
+| PoolManagerV301            | [`0x5b1D19AC5420bA8819aad6C0B98A41095E5C86c2`](https://etherscan.io/address/0x5b1D19AC5420bA8819aad6C0B98A41095E5C86c2) |
+| PoolManagerV301Initializer | [`0x252C44A1630095504E3D3972b9b296f5ED494911`](https://etherscan.io/address/0x252C44A1630095504E3D3972b9b296f5ED494911) |
+| PoolManagerV301Migrator    | [`0x9d07A8373E9ABE5A430cCD161d6373e248D7778F`](https://etherscan.io/address/0x9d07A8373E9ABE5A430cCD161d6373e248D7778F) |
+
+## WithdrawalManagerCyclical V100 Contracts
 | Contract | Address |
 | -------- | ------- |
-| WithdrawalManagerV100            | [`0xB12EC38e3508b0919fa989A0e60fde489b46F430`](https://etherscan.io/address/0xB12EC38e3508b0919fa989A0e60fde489b46F430) |
-| WithdrawalManagerV100Initializer | [`0x1063dCa836894b12f29003CA2899ff806A2B0B31`](https://etherscan.io/address/0x1063dCa836894b12f29003CA2899ff806A2B0B31) |
+| WithdrawalManagerCyclicalV100            | [`0xB12EC38e3508b0919fa989A0e60fde489b46F430`](https://etherscan.io/address/0xB12EC38e3508b0919fa989A0e60fde489b46F430) |
+| WithdrawalManagerCyclicalV100Initializer | [`0x1063dCa836894b12f29003CA2899ff806A2B0B31`](https://etherscan.io/address/0x1063dCa836894b12f29003CA2899ff806A2B0B31) |
+
+## WithdrawalManagerCyclical V110 Contracts
+| Contract | Address |
+| -------- | ------- |
+| WithdrawalManagerCyclicalV110            | [`0xCc4e684916aA7Fa0E4fAEF2359B49A755f89C75b`](https://etherscan.io/address/0xCc4e684916aA7Fa0E4fAEF2359B49A755f89C75b) |
+| WithdrawalManagerCyclicalV110Initializer | [`0x485bA3F5235F150bF8e4Afbd3a25c266cDAdD9Dd`](https://etherscan.io/address/0x485bA3F5235F150bF8e4Afbd3a25c266cDAdD9Dd) |
+
+## WithdrawalManagerQueue V100 Contracts
+| Contract | Address |
+| -------- | ------- |
+| WithdrawalManagerQueueV100            | [`0x899B57Bbd8597aa2d1898476504f479c982c5c2c`](https://etherscan.io/address/0x899B57Bbd8597aa2d1898476504f479c982c5c2c) |
+| WithdrawalManagerQueueV100Initializer | [`0x637f8dC4C4d07D1CC30ae131fA94A060dee6be96`](https://etherscan.io/address/0x637f8dC4C4d07D1CC30ae131fA94A060dee6be96) |
 
 
 # Auxiliary Contracts
@@ -227,9 +269,11 @@
 | FeeManager            | [`0xFeACa6A5703E6F9DE0ebE0975C93AE34c00523F2`](https://etherscan.io/address/0xFeACa6A5703E6F9DE0ebE0975C93AE34c00523F2) |
 | PoolDeployerV1        | [`0x9322fCbb9cf9F04728AD9CB62c80a12615FF9aDc`](https://etherscan.io/address/0x9322fCbb9cf9F04728AD9CB62c80a12615FF9aDc) |
 | PoolDeployerV2        | [`0x87826F821AF105802064785A3905C794eF259D5C`](https://etherscan.io/address/0x87826f821af105802064785a3905c794ef259d5c) |
+| PoolDeployerV3        | [`0x12fB5dbBDB06ab973f047cC46D6bB33ba4d03b96`](https://etherscan.io/address/0x12fB5dbBDB06ab973f047cC46D6bB33ba4d03b96) |
 | FixedTermRefinancerV1 | [`0xec90671c2c8f4cCBb6074938f893306a13402251`](https://etherscan.io/address/0xec90671c2c8f4cCBb6074938f893306a13402251) |
 | FixedTermRefinancerV2 | [`0x27ea6e67FB62AB2A603d4ACBc9377D7a9A0fd5e3`](https://etherscan.io/address/0x27ea6e67fb62ab2a603d4acbc9377d7a9a0fd5e3) |
 | OpenTermRefinancer    | [`0x653D4947620B73a433cAbBc9DFb068c3e9c18984`](https://etherscan.io/address/0x653D4947620B73a433cAbBc9DFb068c3e9c18984) |
+| PoolPermissionManager | [`0xBe10aDcE8B6E3E02Db384E7FaDA5395DD113D8b3`](https://etherscan.io/address/0xBe10aDcE8B6E3E02Db384E7FaDA5395DD113D8b3) |
 
 ## Oracle Contracts
 
