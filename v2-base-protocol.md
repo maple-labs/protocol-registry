@@ -21,12 +21,12 @@
 
 | Contract | Address |
 | -------- | ------- |
-| Pool                 | [`0xdd5bb9acf5e02089735a33344c6e3a8bb0d4075d`](https://basescan.org/address/0xdd5bb9acf5e02089735a33344c6e3a8bb0d4075d) |
-| PoolManager          | [`0x7aa13f647691a709dc3360acad7eb758179790ee`](https://basescan.org/address/0x7aa13f647691a709dc3360acad7eb758179790ee) |
-| FixedTermLoanManager | [`0xc3e5eec47cccdfae4bca7bf40ca2711c4cb60491`](https://basescan.org/address/0xc3e5eec47cccdfae4bca7bf40ca2711c4cb60491) |
-| OpenTermLoanManager  | [`0xd1a9ffefe76ee44ca724bef30e16ead1ba039601`](https://basescan.org/address/0xd1a9ffefe76ee44ca724bef30e16ead1ba039601) |
-| WithdrawalManager    | [`0x6495f96b89904f574817a3b191c7817d91fe96eb`](https://basescan.org/address/0x6495f96b89904f574817a3b191c7817d91fe96eb) |
-| PoolDelegateCover    | [`0x28378DFC7bAe84C668d960c6E8CD862Fda43ba70`](https://basescan.org/address/0x28378DFC7bAe84C668d960c6E8CD862Fda43ba70) |
+| Pool                      | [`0xdd5bb9acf5e02089735a33344c6e3a8bb0d4075d`](https://basescan.org/address/0xdd5bb9acf5e02089735a33344c6e3a8bb0d4075d) |
+| PoolManager               | [`0x7aa13f647691a709dc3360acad7eb758179790ee`](https://basescan.org/address/0x7aa13f647691a709dc3360acad7eb758179790ee) |
+| FixedTermLoanManager      | [`0xc3e5eec47cccdfae4bca7bf40ca2711c4cb60491`](https://basescan.org/address/0xc3e5eec47cccdfae4bca7bf40ca2711c4cb60491) |
+| OpenTermLoanManager       | [`0xd1a9ffefe76ee44ca724bef30e16ead1ba039601`](https://basescan.org/address/0xd1a9ffefe76ee44ca724bef30e16ead1ba039601) |
+| WithdrawalManager (Queue) | [`0xcB617285163D60B7e8451a1631064B4Bc9d62F8d`](https://basescan.org/address/0xcB617285163D60B7e8451a1631064B4Bc9d62F8d) |
+| PoolDelegateCover         | [`0x28378DFC7bAe84C668d960c6E8CD862Fda43ba70`](https://basescan.org/address/0x28378DFC7bAe84C668d960c6E8CD862Fda43ba70) |
 
 # Factory Contracts
 
