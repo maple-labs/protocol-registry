@@ -145,6 +145,16 @@
 | WithdrawalManager (Queue) | [`0xEb7B1e9C750190214cDFbbAf0ABE398A5e47D230`](https://etherscan.io/address/0xEb7B1e9C750190214cDFbbAf0ABE398A5e47D230) |
 | PoolDelegateCover         | [`0xc6cfB7C88d1F072B92984adfcA19D3711C97B416`](https://etherscan.io/address/0xc6cfB7C88d1F072B92984adfcA19D3711C97B416) |
 
+## High Yield WETH Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                      | [`0xCCBc525ED9d85Ad8325b7b6C4C6A79f5566dEa3B`](https://etherscan.io/address/0xCCBc525ED9d85Ad8325b7b6C4C6A79f5566dEa3B) |
+| PoolManager               | [`0xed8b578A01f3CD65488fC19D37E2285eF934e54A`](https://etherscan.io/address/0xed8b578A01f3CD65488fC19D37E2285eF934e54A) |
+| LoanManager (Fixed-Term)  | [`0xc82095C002E726e4b3C8c26eE769b44C772ef9f7`](https://etherscan.io/address/0xc82095C002E726e4b3C8c26eE769b44C772ef9f7) |
+| LoanManager (Open-Term)   | [`0xe3AAC29001c769FAfCef0df072ca396e310ed13b`](https://etherscan.io/address/0xe3AAC29001c769FAfCef0df072ca396e310ed13b) |
+| WithdrawalManager (Queue) | [`0x58A534945f357aa0d2fb56b8BDf7dfA1073bd7a1`](https://etherscan.io/address/0x58A534945f357aa0d2fb56b8BDf7dfA1073bd7a1) |
+| PoolDelegateCover         | [`0x93cdDB2482812A314DDD6aa90007a41F954ef3eB`](https://etherscan.io/address/0x93cdDB2482812A314DDD6aa90007a41F954ef3eB) |
 
 # Protocol Actor Addresses
 
