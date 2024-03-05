@@ -156,6 +156,17 @@
 | WithdrawalManager (Queue) | [`0x58A534945f357aa0d2fb56b8BDf7dfA1073bd7a1`](https://etherscan.io/address/0x58A534945f357aa0d2fb56b8BDf7dfA1073bd7a1) |
 | PoolDelegateCover         | [`0x93cdDB2482812A314DDD6aa90007a41F954ef3eB`](https://etherscan.io/address/0x93cdDB2482812A314DDD6aa90007a41F954ef3eB) |
 
+## High Yield Secure Lending USDC Pool Contracts
+
+| Contract | Address |
+| -------- | ------- |
+| Pool                      | [`0xC39a5A616F0ad1Ff45077FA2dE3f79ab8eb8b8B9`](https://etherscan.io/address/0xC39a5A616F0ad1Ff45077FA2dE3f79ab8eb8b8B9) |
+| PoolManager               | [`0x9ceF7d1D390A4811bBa1BC40A53B40a506C33B19`](https://etherscan.io/address/0x9ceF7d1D390A4811bBa1BC40A53B40a506C33B19) |
+| LoanManager (Fixed-Term)  | [`0x78a13c2f24dF55feeF7f8C895396cf1DD21Cf56f`](https://etherscan.io/address/0x78a13c2f24dF55feeF7f8C895396cf1DD21Cf56f) |
+| LoanManager (Open-Term)   | [`0xb50D675f3C6D18ce5cCAc691354f92aFebD1675E`](https://etherscan.io/address/0xb50D675f3C6D18ce5cCAc691354f92aFebD1675E) |
+| WithdrawalManager (Queue) | [`0x8A665131e796203a5232527fac441480e02fbB7F`](https://etherscan.io/address/0x8A665131e796203a5232527fac441480e02fbB7F) |
+| PoolDelegateCover         | [`0x98005A88A32F1A88f68598aB8Ba7dB914Aa6d626`](https://etherscan.io/address/0x98005A88A32F1A88f68598aB8Ba7dB914Aa6d626) |
+
 # Protocol Actor Addresses
 
 | Contract | Address |
